@@ -11,8 +11,7 @@ A module to disable Android Go limitations.
 - Removes some Android Go restrictions—explore the improvements yourself!
 
 *Issues:*
-- ⚠️ *KernelSU users:* Turn off *Umount Modules By Default* before installing to avoid issues.
+- ⚠️ *KernelSU users:* Install a metamodule, then turn off *Umount Modules By Default* before installing to avoid issues.
 
 *Created by:*
-- [NethWs3Dev](https://github.com/NethWs3Dev)
-- [My Facebook Account](https://www.facebook.com/n3th7)
+- [@nethgraves](https://t.me/nethgraves)
