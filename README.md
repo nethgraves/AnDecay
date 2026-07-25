@@ -1,19 +1,24 @@
 <img width="1280" height="720" alt="88648" src="https://github.com/user-attachments/assets/5ecab9c0-ae41-4760-aa0b-0b213aa66738" />
 
-## CompleteDisableAndroidGo
-A module to disable Android Go limitations.
+# AndroidGoDisabler
 
-*Working on:*
-- KernelSU
-- Magisk
-- APatch
+A module to **disable Android Go**, restoring the full stock Android experience.
 
-*What happens when Android Go is disabled?*
-- *Picture-in-picture, split screen, and floating windows work perfectly!*
-- Removes some Android Go restrictions—explore the improvements yourself!
+## What is Android Go?
+Refer [here](https://developer.android.com/guide/topics/androidgo).
 
-*Issues:*
-- ⚠️ *KernelSU users:* Install a metamodule, then turn off *Umount Modules By Default* before installing to avoid issues.
+## What happens if i Flash this module?
+Android Go devices are limited and has been disabled by default. Disabling it will restore:
+- Picture-in-Picture
+- Split screen
+- _Just explore, there are many limitations on Android Go and now it's removed._
 
-*Created by:*
-- [@nethgraves](https://t.me/nethgraves)
+## How To install?
+
+- Install a metamodule first (_either Hybrid Mount or Mountify_)
+- Install the **AndroidGoDisabler** module on your root manager (_KernelSU, APatch/FolkPatch_)
+- Reboot and Enjoy 🔥
+
+## Feedback/Report
+_If you want to report some feedback and bugs happening on this module, don't hesitate to contact me._
+[Telegram](https://t.me/nethgraves)
