@@ -7,10 +7,12 @@ A module to **disable Android Go**, restoring the full stock Android experience.
 ## What is Android Go?
 Refer [here](https://developer.android.com/guide/topics/androidgo).
 
-## What happens if i Flash this module?
-Android Go devices are limited and has been disabled by default. Disabling it will restore:
+## What happens if I Flash this module?
+Android Go devices are limited and has been disabled some features by default. Installing the module will restore:
 - Picture-in-Picture
 - Split screen
+- Can install Google App (_make sure to uninstall Google Go_)
+- Circle to Search
 - _Just explore, there are many limitations on Android Go and now it's removed._
 
 ## How To install?
