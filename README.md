@@ -1,3 +1,5 @@
+<img width="1280" height="720" alt="88648" src="https://github.com/user-attachments/assets/5ecab9c0-ae41-4760-aa0b-0b213aa66738" />
+
 ## CompleteDisableAndroidGo
 A module to disable Android Go limitations.
 
