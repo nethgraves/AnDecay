@@ -1,7 +1,7 @@
 <img width="1280" height="720" alt="88648" src="banners/Banner1.png" />
 
 # AnDecay
-A **Magisk/KernelSU/APatch/FolkPatch** module to **completely disable Android Go**, restoring the full stock Android experience on all Android Go devices, but not all are effective.
+A **Magisk/KernelSU/APatch/FolkPatch** module to **completely disable Android Go**, restoring the full stock Android experience on all Android Go devices.
 <p align="center">
   <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge" alt="Repo">
   <img src="https://img.shields.io/badge/created by-Nethgraves-green?style=for-the-badge" alt="Created">
