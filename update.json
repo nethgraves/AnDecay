@@ -2,5 +2,5 @@
   "version": "v3.1-testOnlyDonotUpdate",
   "versionCode": 4,
   "zipUrl": "https://github.com/nethgraves/AnDecay/releases/download/latest/AnDecay_3.0.zip",
-  "changelog": "https://raw.githubusercontent.com/nethgraves/AnDecay/refs/heads/master/CHANGELOG.md"
+  "changelog": "https://raw.githubusercontent.com/nethgraves/AnDecay/refs/heads/main/CHANGELOG.md"
 }
