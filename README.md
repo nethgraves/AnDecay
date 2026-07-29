@@ -8,10 +8,10 @@ A module to **completely disable Android Go**, restoring the full stock Android 
   <img src="https://img.shields.io/badge/Android-13+-blue?style=for-the-badge&logo=android" alt="Android Version">
 </p>
 
-## What is Android Go?
+## 🤔 What is Android Go?
 Starting **Android 8+**, Android Go was introduced for devices with entry-level specification. For more info please refer [here](https://developer.android.com/guide/topics/androidgo).
 
-## What happens if I Flash this module?
+## ❓ What happens if I Flash this module?
 Android Go devices are limited and has been disabled some features by default. Installing the module will restore:
 - Picture-in-Picture
 - Split screen
@@ -19,13 +19,13 @@ Android Go devices are limited and has been disabled some features by default. I
 - Circle to Search
 - _Just explore, there are many limitations on Android Go and now it's removed._
 
-## How To install?
+## 📦 How to install?
 
 - Install a metamodule first (_either Hybrid Mount or Mountify_)
 - Install the **AnDecay** module on your root manager (_KernelSU, APatch/FolkPatch_)
 - Reboot and Enjoy 🔥
 
-## Feedback/Report
+## 💬 Feedback/Report
 _If you want to report some feedback and bugs happening on this module, don't hesitate to contact me._
 <p align="left">
   </a>
