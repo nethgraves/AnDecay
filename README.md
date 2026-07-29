@@ -1,7 +1,7 @@
 <img width="1280" height="720" alt="88648" src="banners/Banner1.png" />
 
-# AnDecay ⚰️
-A module to **completely disable Android Go**, restoring the full stock Android experience on all Android Go devices, but not all are effective.
+# AnDecay
+A **Magisk/KernelSU/APatch/FolkPatch** module to **completely disable Android Go**, restoring the full stock Android experience on all Android Go devices, but not all are effective.
 <p align="center">
   <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge" alt="Repo">
   <img src="https://img.shields.io/badge/created by-Nethgraves-green?style=for-the-badge" alt="Created">
@@ -21,9 +21,9 @@ Android Go devices are limited and has been disabled some features by default. I
 
 ## 📦 How to install?
 
-- Install a metamodule first (_either Hybrid Mount or Mountify_)
-- Install the **AnDecay** module on your root manager (_KernelSU, APatch/FolkPatch_)
-- Reboot and Enjoy 🔥
+1. Make sure [Hybrid Mount](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases) or [Mountify](https://github.com/backslashxx/mountify/releases) metamodule is installed. After doing so, you're good to go.
+2. Download and install the latest **AnDecay** module.
+3. Reboot and Enjoy 🔥
 
 ## 💬 Feedback/Report
 _If you want to report some feedback and bugs happening on this module, don't hesitate to contact me._
