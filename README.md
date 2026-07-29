@@ -1,8 +1,12 @@
 <img width="1280" height="720" alt="88648" src="https://github.com/user-attachments/assets/5ecab9c0-ae41-4760-aa0b-0b213aa66738" />
 
-# AndroidGoDisabler
-
-A module to **disable Android Go**, restoring the full stock Android experience.
+# AnDecay
+<p align="center">
+  <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge&link=https://github.com/nethgraves/andecay" alt="Repo">
+  <img src="https://img.shields.io/badge/created by-Nethgraves-green?style=for-the-badge" alt="Created">
+  <img src="https://img.shields.io/badge/Android-13+-blue?style=for-the-badge&logo=android" alt="Android Version">
+</p>
+A module to <b>disable Android Go</b>, restoring the full stock Android experience.
 
 ## What is Android Go?
 Refer [here](https://developer.android.com/guide/topics/androidgo).
