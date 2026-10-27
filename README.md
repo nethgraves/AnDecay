@@ -21,7 +21,7 @@ Android Go devices are limited and has been disabled some features by default. I
 
 ## 📦 How to install?
 
-1. Make sure [Hybrid Mount](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases) or [Mountify](https://github.com/backslashxx/mountify/releases) metamodule is installed. After doing so, you're good to go.
+1. Make sure [NoMount](https://github.com/maxsteeel/nomount/releases/latest) or [Hybrid Mount](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases) or [Mountify](https://github.com/backslashxx/mountify/releases) metamodule is installed. After doing so, you're good to go.
 2. Download and install the latest **AnDecay** module.
 3. Reboot and Enjoy 🔥
 
