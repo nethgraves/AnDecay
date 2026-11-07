@@ -21,9 +21,14 @@ Android Go devices are limited and has been disabled some features by default. I
 
 ## 📦 How to install?
 
-1. Make sure [NoMount](https://github.com/maxsteeel/nomount/releases/latest) or [Hybrid Mount](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases) or [Mountify](https://github.com/backslashxx/mountify/releases) metamodule is installed. After doing so, you're good to go.
+1. Make sure [NoMount](https://github.com/maxsteeel/nomount/releases/latest) or [Hybrid Mount](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases) or [Mountify](https://github.com/backslashxx/mountify/releases) metamodule is installed. After doing so, you're good to go. (_For root managers with built in metamodule, this is now optional._)
 2. Download and install the latest **AnDecay** module.
 3. Reboot and Enjoy 🔥
+
+## ❓ Some notes:
+- Android 12 below might not work activity open/close animation
+- 32bit devices might not disable completely
+- Do not use FULL version if you are on AOSP Custom ROM.
 
 ## 💬 Feedback/Report
 _If you want to report some feedback and bugs happening on this module, don't hesitate to contact me._
