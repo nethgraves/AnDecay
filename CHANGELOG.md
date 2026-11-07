@@ -1,10 +1,12 @@
 <img width="512" height="512" alt="IMG_20260719_165008_269" src="https://github.com/user-attachments/assets/bf6c8eb0-473c-4f46-9a69-0d95d73f18d3" />
 <p align="center"><b>Hi, you came here with a new update! ~ Please read changelogs 😗</b></p>
 
-**Some notes**:
-- Android 12 below might not work activity open/close animation
-- 32bit devices might not disable completely
-- Do not use FULL version if you are on AOSP Custom ROM.
+## 4.1
+**Changelogs**:
+- Removed metamodule detection mechanism on post-fs-data and service, instead it will indicate as partial if metamodule isn't installed
+- Added support for root managers with built-in metamodule, including FinaSU
+- Bug fix
+- Some module description changes
 
 ## 4.0
 
